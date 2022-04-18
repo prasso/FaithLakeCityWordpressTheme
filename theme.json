@@ -10,6 +10,13 @@
 			]
 		},
 		{
+			"name": "page-four-rows",
+			"title": "Page (Four Rows)",
+			"postTypes": [
+				"page"
+			]
+		},
+		{
 			"name": "page-large-header",
 			"title": "Page (Large Header)",
 			"postTypes": [
@@ -36,12 +43,12 @@
 		"color": {
 			"duotone": [
 				{
-					"colors": [ "#000000", "#ffffff" ],
+					"colors": [ "#000000", "#525252" ],
 					"slug": "foreground-and-background",
 					"name": "Foreground and background"
 				},
 				{
-					"colors": [ "#000000", "#ffe2c7" ],
+					"colors": [ "#000000", "#c4b7a4" ],
 					"slug": "foreground-and-secondary",
 					"name": "Foreground and secondary"
 				},
@@ -51,12 +58,12 @@
 					"name": "Foreground and tertiary"
 				},
 				{
-					"colors": [ "#1a4548", "#ffffff" ],
+					"colors": [ "#1a4548", "#525252" ],
 					"slug": "primary-and-background",
 					"name": "Primary and background"
 				},
 				{
-					"colors": [ "#1a4548", "#ffe2c7" ],
+					"colors": [ "#1a4548", "#c4b7a4" ],
 					"slug": "primary-and-secondary",
 					"name": "Primary and secondary"
 				},
@@ -116,7 +123,7 @@
 				},
 				{
 					"slug": "background",
-					"color": "#ffffff",
+					"color": "#525252",
 					"name": "Background"
 				},
 				{
@@ -126,7 +133,7 @@
 				},
 				{
 					"slug": "secondary",
-					"color": "#ffe2c7",
+					"color": "#c4b7a4",
 					"name": "Secondary"
 				},
 				{

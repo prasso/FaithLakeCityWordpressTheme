@@ -56,6 +56,7 @@ function faithlakecity_register_block_patterns() {
 		'footer-query-title-citation',
 		'footer-query-images-title-citation',
 		'footer-blog',
+		'general-home',
 		'general-subscribe',
 		'general-featured-posts',
 		'general-layered-images-with-duotone',
