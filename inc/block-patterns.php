@@ -45,6 +45,7 @@ function faithlakecity_register_block_patterns() {
 	}
 
 	$block_patterns = array(
+		'body-bold-text',
 		'footer-default',
 		'footer-dark',
 		'footer-logo',
