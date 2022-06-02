@@ -9,8 +9,8 @@ return array(
 	<!-- wp:columns {"align":"wide"} -->
 	<div class="wp-block-columns alignwide">
 
-	<!-- wp:column {"style":{"backgroundColor":"secondary"} -->
-	<div class="wp-block-column has-secondary-background-color">
+	<!-- wp:column {"style":{"backgroundColor":"background"} -->
+	<div class="wp-block-column has-background-color">
 	
 	<!-- wp:group  -->
 	<div class="wp-block-group fb-spacer90">
