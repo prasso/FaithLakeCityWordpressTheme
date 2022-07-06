@@ -8536,3 +8536,12 @@ body.footer-subpalette4.greenhouse #wrapper {
 .fb-spacer90{padding-top:90px;padding-right:30px;padding-bottom:90px;padding-left:30px;}
 .fb-header3{font-style:normal;font-weight:700;}
 .fb-full-width{width:100%;}
+.wp-container-12 p {max-width:1200px !important;}
+.wp-container-12{max-width:2200px !important;}
+.wp-container-12 > :where(:not(.alignleft):not(.alignright)),
+.wp-container-31 > :where(:not(.alignleft):not(.alignright)){max-width:2200px !important;}
+.wp-container-14 > *, .wp-container-31{
+    max-width: 2200px !important;
+}
+.wp-container-13{margin:auto !important;}
+.wp-block-cover-image {max-width: 2200px; !important; position:static;}
